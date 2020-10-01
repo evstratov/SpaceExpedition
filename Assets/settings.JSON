@@ -1,0 +1,10 @@
+{"name":"Base","speed":5.0,"levelSpeed":3,"fuelConsumptionSpeed":0.4000000059604645,"levelFuel":3,"control":2.0,"levelControl":3,"resourceTime":3.0,"levelResource":3}
+{"name":"USA(watch video)","speed":5.0,"levelSpeed":3,"fuelConsumptionSpeed":0.4000000059604645,"levelFuel":3,"control":2.0,"levelControl":3,"resourceTime":2.0,"levelResource":2}
+{"name":"USSR","speed":2.0,"levelSpeed":0,"fuelConsumptionSpeed":1.0,"levelFuel":0,"control":1.0,"levelControl":0,"resourceTime":1.0,"levelResource":0}
+{"name":"Voyager","speed":2.0,"levelSpeed":0,"fuelConsumptionSpeed":1.0,"levelFuel":0,"control":1.0,"levelControl":0,"resourceTime":1.0,"levelResource":0}
+{"name":"Destroyer","speed":2.0,"levelSpeed":0,"fuelConsumptionSpeed":1.0,"levelFuel":0,"control":1.0,"levelControl":0,"resourceTime":1.0,"levelResource":0}
+{"name":"Fighter","speed":2.0,"levelSpeed":0,"fuelConsumptionSpeed":1.0,"levelFuel":0,"control":1.0,"levelControl":0,"resourceTime":1.0,"levelResource":0}
+{"name":"UFO","speed":2.0,"levelSpeed":0,"fuelConsumptionSpeed":1.0,"levelFuel":0,"control":1.0,"levelControl":0,"resourceTime":1.0,"levelResource":0}
+{"name":"StarBus","speed":2.0,"levelSpeed":0,"fuelConsumptionSpeed":1.0,"levelFuel":0,"control":1.0,"levelControl":0,"resourceTime":1.0,"levelResource":0}
+{"name":"Prometheus","speed":2.0,"levelSpeed":0,"fuelConsumptionSpeed":1.0,"levelFuel":0,"control":1.0,"levelControl":0,"resourceTime":1.0,"levelResource":0}
+{"name":"Enterprise","speed":2.0,"levelSpeed":0,"fuelConsumptionSpeed":1.0,"levelFuel":0,"control":1.0,"levelControl":0,"resourceTime":1.0,"levelResource":0}
